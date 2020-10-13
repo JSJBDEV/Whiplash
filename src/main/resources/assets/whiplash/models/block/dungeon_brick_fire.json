@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "whiplash:block/dungeon_brick_fire"
+    }
+}

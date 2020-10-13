@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "gd.rf.acro.whiplash.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "DamageEffectsMixin"
+
+  ],
+  "client": [
+    "MixinItemRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

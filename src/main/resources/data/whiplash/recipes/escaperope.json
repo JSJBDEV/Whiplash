@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "whiplash",
+  "pattern": [
+    "  B",
+    "  V",
+    "VVV"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:slime_ball"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "whiplash:escape_rope",
+    "count": 1
+  }
+}

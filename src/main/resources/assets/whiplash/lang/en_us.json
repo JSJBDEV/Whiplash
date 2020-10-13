@@ -1,0 +1,15 @@
+{
+  "itemGroup.whiplash.tab": "Whiplash: Magic Dungeons",
+  "block.whiplash.dungeon_brick_earth": "Earth Dungeon Brick",
+  "block.whiplash.dungeon_brick_fire": "Earth Dungeon Brick",
+  "block.whiplash.dungeon_brick_water": "Earth Dungeon Brick",
+  "block.whiplash.solid_void": "Solid Void",
+
+  "item.whiplash.earth_crystal": "Magic Earth Crystal",
+  "item.whiplash.fire_crystal": "Magic Fire Crystal",
+  "item.whiplash.water_crystal": "Magic Water Crystal",
+  "item.whiplash.elemental_core": "Core Element",
+  "item.whiplash.spell_book": "Spell Book",
+  "item.whiplash.dungeon_map": "Dungeon Locator Map",
+  "item.whiplash.escape_rope": "Escape Rope"
+}

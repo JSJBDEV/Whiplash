@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "whiplash",
+  "version": "${version}",
+
+  "name": "Whiplash: Magic Dungeons",
+  "description": "a mod that adds dungeons and basic magic",
+  "authors": [
+    "Acro"
+  ],
+  "contact": {
+    "homepage": "http://acro.rf.gd/",
+    "sources": "https://github.com/JSJBDEV/Whiplash"
+  },
+
+  "license": "MIT",
+  "icon": "assets/whiplash/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "gd.rf.acro.whiplash.Whiplash"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

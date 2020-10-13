@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "whiplash",
+  "ingredients": [
+
+    {"item": "minecraft:blaze_powder"},
+    {"item": "minecraft:map"},
+    {"item": "minecraft:feather"}
+
+  ],
+  "result": {
+    "item": "whiplash:dungeon_map"
+  }
+}
